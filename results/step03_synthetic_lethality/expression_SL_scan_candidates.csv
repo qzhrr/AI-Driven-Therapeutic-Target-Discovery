@@ -1,0 +1,284 @@
+gene,top_expr_partner,r,cohens_d,p,sig,likely_paralog,rank_all,pair_reported_before,report_evidence_level,reported_reference,dep_lowExpr,dep_highExpr,gene_root,partner_root
+FAM50A,FAM50B,0.753,-3.14,0.0,True,True,130,yes,validated,FAM50A←FAM50B: Thompson/Parrish 2021 Nat Commun; PaCT Cell Rep 2022; dual-KO validated,-1.1,-0.165,FAM,FAM
+RPP25L,RPP25,0.73,-2.16,0.0,True,True,20,yes,validated,RPP25L←RPP25: PaCT Cell Rep 2022; GBM-specific Neuro-Oncology 2022 EXTH-61 (RPP25 promoter methylation),-0.815,-0.161,RPP,RPP
+CDS2,CDS1,0.681,-2.314,0.0,True,True,216,yes,validated,CDS2←CDS1: Nature Genetics 2025 (uveal melanoma + pan-cancer); in-vivo + rescue validated,-0.639,-0.213,CDS,CDS
+CHMP4B,CRB3,0.563,-1.617,0.0,True,False,186,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.406,-0.638,CHMP,CRB
+POP7,RPP25,0.524,-1.336,0.0,True,False,105,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.004,-0.615,POP,RPP
+FERMT2,CCDC88C,0.513,-1.354,0.0,True,False,18,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.953,-0.338,FERMT,CCDC
+EAF1,EAF2,0.494,-1.488,0.0,True,True,61,yes,screen,"EAF1←EAF2: reported experimentally-verified paralog SL (SL-RFM 2023; grouped with CDK4/6, COPG1/2)",-0.641,-0.239,EAF,EAF
+PTK2,PTK2B,0.464,-1.159,7.510000000000001e-43,True,True,21,partial,redundancy,PTK2←PTK2B: FAK/PYK2 functional redundancy documented; FAK is SL with GNAQ (uveal mel); not a crisp PTK2B-low→FAK SL landmark,-0.766,-0.357,PTK,PTK
+ITGAV,DAPP1,0.461,-1.316,0.0,True,False,8,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.844,-0.366,ITGAV,DAPP
+TLN1,MYB,0.447,-1.123,6.6e-44,True,False,223,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.478,-0.163,TLN,MYB
+NCKAP1,WAS,0.437,-0.65,9.301614e-18,True,False,157,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.554,-0.352,NCKAP,WAS
+ELMO2,ELMO3,0.422,-1.158,6e-45,True,True,172,yes,validated,ELMO2←ELMO3: Nature Communications 2026 (mesenchymal-like/EGFR-TKI-resistant NSCLC; ZEB1 represses ELMO3),-0.304,0.008,ELMO,ELMO
+VRK1,VRK2,0.413,-0.697,1.8499838e-19,True,True,9,yes,validated,VRK1←VRK2: Cancer Res 2022 (Tango/TANDEM); VRK2-methylated GBM; isogenic + in-vivo validated,-0.559,-0.382,VRK,VRK
+GPX4,ERBB3,0.41,-0.977,3.9961000000000003e-41,True,False,69,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.041,-0.607,GPX,ERBB
+PSMB7,MAP4K1,0.405,-0.57,2.9175596e-13,True,False,196,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.379,-1.217,PSMB,MAP4K
+SEPSECS,ERBB3,0.399,-1.052,5.6502199999999996e-39,True,False,81,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.727,-0.314,SEPSECS,ERBB
+JUN,TMC6,0.389,-0.875,1.3518647000000001e-27,True,False,3,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.443,-0.205,JUN,TMC
+WWTR1,MYB,0.385,-0.974,4.628383e-37,True,False,83,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.443,-0.215,WWTR,MYB
+EEFSEC,ERBB3,0.384,-1.0,1.2388543000000002e-38,True,False,84,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.642,-0.352,EEFSEC,ERBB
+PSTK,ESRP2,0.376,-0.955,2.681347e-35,True,False,120,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.605,-0.318,PSTK,ESRP
+VCL,CCDC88C,0.361,-0.841,2.3059808e-26,True,False,43,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.491,-0.316,VCL,CCDC
+RAC1,KIF21B,0.36,-0.725,1.3594537e-22,True,False,86,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.833,-0.62,RAC,KIF
+FGFR1,TMC6,0.356,-0.742,5.436926e-19,True,False,11,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.281,-0.032,FGFR,TMC
+PRKAR1A,ARHGAP8,0.355,-0.879,2.4112607e-28,True,False,175,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.28,-0.067,PRKAR,ARHGAP
+PPP2R1A,CCDC88C,0.354,-0.856,2.0200328e-25,True,False,101,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.065,-0.675,PPP2R,CCDC
+TEAD1,MYB,0.353,-0.911,3.284183e-31,True,False,40,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.337,-0.106,TEAD,MYB
+WDR77,MTAP,0.344,-0.551,1.5417796e-11,True,False,17,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.497,-1.276,WDR,MTAP
+ZFP36L1,EPB41,0.338,-0.824,1.5182852e-29,True,False,259,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.368,-0.114,ZFP36L,EPB
+PDCL3,CCDC88C,0.337,-0.871,2.4900136e-28,True,False,24,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.446,-0.316,PDCL,CCDC
+CDC42,GPX2,0.337,-0.666,8.2535606e-19,True,False,183,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.14,-0.873,CDC,GPX
+ITGB5,DAPP1,0.334,-0.839,3.1634364e-27,True,False,5,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.416,-0.168,ITGB,DAPP
+FXN,ARHGAP27,0.332,-0.73,1.8063313e-20,True,False,109,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.754,-0.519,FXN,ARHGAP
+GOLT1B,GOLT1A,0.331,-0.7,1.8894363e-20,True,True,100,no,none,GOLT1B←GOLT1A: no SL report found; only prognostic/oncogene studies — candidate NOVEL from this scan,-0.377,-0.235,GOLT,GOLT
+CHMP3,CHMP2A,0.33,-0.833,3.2858264e-27,True,True,255,not_true_paralog,none,"CHMP3←CHMP2A: name-root false match — CHMP2A paralog is CHMP2B; CHMP3=Vps24 is a distinct ESCRT-III subunit. Correlation = obligate complex co-membership, not paralog SL; not reported",-0.933,-0.699,CHMP,CHMP
+ACTL6A,ACTL6B,0.329,-0.185,0.013163182,False,True,79,,,,-1.601,-1.545,ACTL,ACTL
+TUBB,EPCAM,0.325,-0.781,4.732148000000001e-25,True,False,85,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.869,-1.387,TUBB,EPCAM
+LMNA,TMC6,0.324,-0.77,2.4017684e-25,True,False,16,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.48,-0.309,LMNA,TMC
+GRB2,MARS2,0.322,-0.841,1.2351432000000001e-27,True,False,95,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.1,-0.637,GRB,MARS
+C19orf53,COQ8A,0.32,-0.718,4.032651e-20,True,False,32,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.699,-0.492,C19orf,COQ
+SRF,IQANK1,0.315,-0.701,4.1687932e-20,True,False,146,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.564,-0.377,SRF,IQANK
+KIF2C,CCDC88C,0.31,-0.778,2.1364754999999998e-23,True,False,1,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.391,-0.229,KIF,CCDC
+HNRNPH1,ERBB3,0.31,-0.766,1.8473598e-22,True,False,235,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.297,-0.942,HNRNPH,ERBB
+C3orf38,CCDC88C,0.306,-0.686,1.0537267e-19,True,False,7,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.441,-0.256,C3orf,CCDC
+PPP1R12A,CYFIP2,0.303,-0.671,9.6750133e-20,True,False,261,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-1.392,-1.069,PPP1R,CYFIP
+SKA1,MYB,0.301,-0.619,1.6496195e-17,True,False,57,not_assessed,,Non-paralog top partner — likely lineage/co-expression confounder; SL not literature-assessed,-0.655,-0.492,SKA,MYB
+GPR61,MYB,0.298,-0.632,2.2007834000000002e-16,False,False,31,,,,-0.48,-0.368,GPR,MYB
+SNRPB2,EIF3L,0.295,-0.7,8.526847999999999e-19,False,False,33,,,,-0.884,-0.579,SNRPB,EIF
+ACTR3,LRRC8B,0.291,-0.655,8.6341697e-19,False,False,67,,,,-0.64,-0.492,ACTR,LRRC
+SGO1,POLR1D,0.289,-0.797,2.3115978e-23,False,False,165,,,,-1.213,-0.978,SGO,POLR
+SYS1,LLGL2,0.288,-0.674,9.655871e-19,False,False,80,,,,-1.288,-0.961,SYS,LLGL
+EGLN1,CAMSAP3,0.288,-0.714,3.2887121999999997e-19,False,False,13,,,,-0.258,-0.047,EGLN,CAMSAP
+LYRM4,FAM83H,0.288,-0.703,8.737104e-20,False,False,52,,,,-1.331,-1.089,LYRM,FAM
+FRS2,TMC6,0.284,-0.641,8.649567e-18,False,False,60,,,,-0.337,-0.229,FRS,TMC
+NOP56,IL2RG,0.283,-0.541,2.7730316e-13,False,False,260,,,,-1.404,-1.253,NOP,IL2RG
+ZNF593,CCDC88C,0.282,-0.657,2.207662e-17,False,False,68,,,,-0.533,-0.404,ZNF,CCDC
+KIF18B,CCDC88C,0.28,-0.692,6.384537e-21,False,False,10,,,,-0.593,-0.373,KIF,CCDC
+ARFRP1,ESRP1,0.28,-0.658,3.9926094000000004e-21,False,False,221,,,,-0.809,-0.615,ARFRP,ESRP
+BRAT1,INTS9,0.279,-0.734,6.586709999999999e-22,False,False,53,,,,-0.51,-0.27,BRAT,INTS
+ARF4,STRBP,0.279,-0.564,3.5634283e-18,False,False,202,,,,-0.797,-0.584,ARF,STRBP
+NOLC1,CCDC88C,0.278,-0.615,1.4789431e-15,False,False,134,,,,-0.543,-0.424,NOLC,CCDC
+MSTO1,BICDL1,0.277,-0.693,1.9908321999999998e-19,False,False,129,,,,-1.049,-0.745,MSTO,BICDL
+PTPN11,FCRLA,0.273,-0.217,0.002052171,False,False,72,,,,-0.769,-0.694,PTPN,FCRLA
+DPH3,SH2D3A,0.271,-0.656,2.4280495e-18,False,False,125,,,,-0.984,-0.835,DPH,SH2D
+CTDNEP1,LRPPRC,0.27,-0.638,3.236113e-16,False,False,36,,,,-0.534,-0.376,CTDNEP,LRPPRC
+POLR1G,TMEM238,0.267,-0.647,6.2409490000000004e-18,False,False,46,,,,-0.501,-0.391,POLR,TMEM
+NELFCD,CTNND1,0.265,-0.506,2.1497485e-12,False,False,143,,,,-0.676,-0.562,NELFCD,CTNND
+ZNHIT3,CCDC88C,0.263,-0.603,1.9006367e-14,False,False,161,,,,-0.605,-0.435,ZNHIT,CCDC
+EXT1,NRROS,0.262,-0.56,3.537979e-14,False,False,29,,,,-0.365,-0.224,EXT,NRROS
+DSCC1,MAPK13,0.262,-0.695,1.2928904e-19,False,False,35,,,,-0.319,-0.114,DSCC,MAPK
+UFM1,BCL7A,0.261,-0.611,2.880761e-16,False,False,206,,,,-0.594,-0.379,UFM,BCL
+UBA5,ARHGAP19,0.261,-0.583,5.261015e-14,False,False,90,,,,-0.609,-0.428,UBA,ARHGAP
+NHLRC2,SYTL1,0.26,-0.644,1.3903282000000002e-16,False,False,139,,,,-0.764,-0.471,NHLRC,SYTL
+E2F3,RB1,0.26,-0.402,5.6416854e-07,False,False,22,,,,-0.308,-0.188,E2F,RB
+INTS12,CCDC88C,0.258,-0.62,2.3148934e-16,False,False,37,,,,-0.565,-0.398,INTS,CCDC
+C19orf25,L2HGDH,0.256,-0.661,2.7878157e-17,False,False,122,,,,-0.307,-0.151,C19orf,L2HGDH
+BRCA1,WAS,0.256,-0.27,0.00011751105,False,False,27,,,,-0.465,-0.398,BRCA,WAS
+PDCD2,KLRG2,0.254,-0.437,1.6384282e-09,False,False,199,,,,-1.279,-1.06,PDCD,KLRG
+ARPC2,KCNJ11,0.253,-0.537,4.8222067e-14,False,False,238,,,,-0.579,-0.479,ARPC,KCNJ
+KIF18A,ATP2A3,0.252,-0.553,1.3844524e-14,False,False,14,,,,-1.458,-1.105,KIF,ATP2A
+DCTN5,MPZL3,0.252,-0.605,5.2251205e-15,False,False,219,,,,-1.294,-1.131,DCTN,MPZL
+CDC25B,RPS12,0.252,-0.583,3.6863684e-14,False,False,12,,,,-0.389,-0.262,CDC,RPS
+RPL10A,ESRP2,0.251,-0.48,3.0096117e-12,False,False,192,,,,-2.175,-2.012,RPL,ESRP
+ALDOA,ALDOC,0.251,-0.612,1.0076608e-14,False,False,241,,,,-1.365,-1.118,ALDOA,ALDOC
+NUBP2,PRR15L,0.25,-0.46,1.3457141e-10,False,False,133,,,,-0.673,-0.559,NUBP,PRR
+CHMP7,RPL3,0.25,-0.56,7.292021e-15,False,False,64,,,,-0.641,-0.456,CHMP,RPL
+SETD5,SEC11C,0.249,-0.51,1.0347422e-11,False,False,131,,,,-0.362,-0.254,SETD,SEC
+ALG1,GLB1L2,0.249,-0.591,6.4236844e-15,False,False,65,,,,-0.872,-0.692,ALG,GLB1L
+RSAD1,MYB,0.249,-0.576,7.054000400000001e-16,False,False,158,,,,-0.425,-0.326,RSAD,MYB
+NELFA,MAP3K21,0.248,-0.628,6.611766e-16,False,False,128,,,,-1.013,-0.801,NELFA,MAP3K
+PFDN1,ZNF124,0.248,-0.523,4.9548104e-13,False,False,162,,,,-0.712,-0.519,PFDN,ZNF
+MTOR,KRTCAP3,0.248,-0.537,6.340031e-13,False,False,106,,,,-1.225,-1.071,MTOR,KRTCAP
+SBDS,HNRNPC,0.246,-0.526,2.896019e-12,False,False,220,,,,-1.904,-1.632,SBDS,HNRNPC
+KDM8,HNF1B,0.246,-0.32,1.9731328e-06,False,False,82,,,,-0.533,-0.452,KDM,HNF
+CCT8,TRAF4,0.246,-0.569,8.758205e-12,False,False,265,,,,-1.757,-1.621,CCT,TRAF
+KLF16,PTPN6,0.245,-0.52,7.72294e-13,False,False,91,,,,-0.399,-0.298,KLF,PTPN
+TCP1,SYK,0.245,-0.551,3.679165e-14,False,False,151,,,,-1.944,-1.765,TCP,SYK
+RPS29,TLCD1,0.245,-0.569,1.998374e-15,False,False,239,,,,-2.933,-2.732,RPS,TLCD
+ODR4,N4BP3,0.245,-0.524,1.1320899e-12,False,False,102,,,,-0.364,-0.27,ODR,N4BP
+MMS19,CBFA2T3,0.244,-0.412,4.9259588e-09,False,False,275,,,,-0.733,-0.608,MMS,CBFA2T
+TM2D2,IRF4,0.244,-0.317,5.3011504e-06,False,False,104,,,,-0.299,-0.235,TM2D,IRF
+ERCC6L,PTPN6,0.242,-0.561,2.1798207e-14,False,False,23,,,,-0.321,-0.221,ERCC,PTPN
+HSCB,CLDN3,0.242,-0.444,1.531711e-10,False,False,51,,,,-0.667,-0.546,HSCB,CLDN
+SLC35B2,RINL,0.241,-0.622,1.9815885e-15,False,False,59,,,,-0.413,-0.252,SLC35B,RINL
+SNUPN,ARHGAP9,0.24,-0.389,7.003581e-08,False,False,28,,,,-1.02,-0.909,SNUPN,ARHGAP
+NELFB,CLDN3,0.239,-0.528,5.71647e-13,False,False,205,,,,-0.998,-0.796,NELFB,CLDN
+HJV,SLC43A1,0.238,-0.603,4.0272937e-14,False,False,141,,,,-0.456,-0.365,HJV,SLC43A
+TRAPPC13,NSMCE4A,0.237,-0.607,8.097839300000001e-16,False,False,49,,,,-0.402,-0.291,TRAPPC,NSMCE
+RPL36,SLC29A2,0.235,-0.618,2.4443615e-15,False,False,245,,,,-2.186,-1.978,RPL,SLC29A
+PDCD5,ATP2A3,0.235,-0.459,4.772944e-10,False,False,127,,,,-0.5,-0.398,PDCD,ATP2A
+UFC1,TADA1,0.234,-0.565,2.394535e-13,False,False,88,,,,-0.432,-0.338,UFC,TADA
+TAF1D,MBTD1,0.233,-0.492,3.837413e-12,False,False,249,,,,-0.741,-0.621,TAF,MBTD
+ALG2,GRIN1,0.232,-0.421,8.885877e-08,False,False,194,,,,-1.423,-1.258,ALG,GRIN
+CYFIP1,TAF4B,0.231,-0.562,2.2381725e-13,False,False,55,,,,-0.364,-0.267,CYFIP,TAF
+ARHGAP11A,CCDC88C,0.231,-0.549,6.1989794000000005e-16,False,False,50,,,,-0.377,-0.283,ARHGAP,CCDC
+TIMM9,ANKRD22,0.23,-0.464,1.164622e-09,False,False,38,,,,-0.551,-0.468,TIMM,ANKRD
+NUP35,MARS2,0.23,-0.548,7.112503e-14,False,False,89,,,,-0.516,-0.398,NUP,MARS
+GGPS1,ALDH3B2,0.229,-0.374,2.5504525e-08,False,False,34,,,,-1.342,-1.184,GGPS,ALDH3B
+POLR1H,CREB3L4,0.228,-0.479,1.3588466e-09,False,False,92,,,,-0.927,-0.818,POLR,CREB3L
+MLST8,GOLT1A,0.227,-0.494,2.5035396e-09,False,False,30,,,,-0.533,-0.374,MLST,GOLT
+VBP1,TESC,0.227,-0.543,6.4588927e-13,False,False,66,,,,-0.664,-0.5,VBP,TESC
+SURF4,LLGL2,0.227,-0.516,3.931901e-10,False,False,62,,,,-0.238,-0.128,SURF,LLGL
+UBE2C,CCDC88C,0.226,-0.628,3.5039288e-17,False,False,41,,,,-0.798,-0.626,UBE,CCDC
+NDC1,RAP1GAP,0.225,-0.53,7.9949615e-12,False,False,42,,,,-0.602,-0.459,NDC,RAP1GAP
+CDK2,RB1,0.225,-0.424,2.5391673e-06,False,False,6,,,,-0.773,-0.624,CDK,RB
+LSM6,VAMP8,0.225,-0.463,3.2481545e-11,False,False,126,,,,-0.975,-0.867,LSM,VAMP
+WDR55,TLCD1,0.224,-0.465,1.6379819e-09,False,False,180,,,,-1.287,-1.154,WDR,TLCD
+PFDN5,RPS6KL1,0.223,-0.504,3.146096e-14,False,False,272,,,,-0.845,-0.727,PFDN,RPS6KL
+UBTF,VAMP8,0.223,-0.504,1.1477188e-11,False,False,215,,,,-1.763,-1.615,UBTF,VAMP
+TMED2,ARHGAP19,0.22,-0.483,9.7402e-10,False,False,147,,,,-0.633,-0.497,TMED,ARHGAP
+ELAVL1,JUP,0.22,-0.492,2.9033723e-10,False,False,19,,,,-0.362,-0.254,ELAVL,JUP
+CCT3,MYB,0.22,-0.414,7.277171e-08,False,False,168,,,,-2.215,-2.079,CCT,MYB
+AK6,ATP8A1,0.219,-0.533,2.215021e-13,False,False,75,,,,-1.19,-0.951,AK,ATP8A
+TSEN54,PRR5,0.218,-0.505,8.611024e-12,False,False,243,,,,-0.905,-0.772,TSEN,PRR
+ARMC5,STRBP,0.217,-0.431,4.2400847e-10,False,False,108,,,,-0.396,-0.286,ARMC,STRBP
+OSBP,SH2D3A,0.216,-0.489,1.1842889e-11,False,False,78,,,,-0.486,-0.394,OSBP,SH2D
+HAUS2,EEF1G,0.216,-0.478,1.3943936e-09,False,False,99,,,,-0.81,-0.731,HAUS,EEF
+RABGGTB,TGM1,0.215,-0.541,6.775852e-12,False,False,87,,,,-1.561,-1.389,RABGGTB,TGM
+SOCS3,CCDC88C,0.213,-0.475,8.8084956e-11,False,False,197,,,,-0.267,-0.136,SOCS,CCDC
+HYOU1,CRACR2B,0.213,-0.414,2.683709e-07,False,False,257,,,,-1.098,-0.978,HYOU,CRACR
+SPCS2,VAMP8,0.213,-0.509,4.5014892e-10,False,False,234,,,,-0.771,-0.659,SPCS,VAMP
+PRKRA,IKZF1,0.213,-0.178,0.00020555002,False,False,107,,,,-0.707,-0.622,PRKRA,IKZF
+JTB,AIF1L,0.212,-0.514,2.4351184e-11,False,False,217,,,,-0.305,-0.198,JTB,AIF
+PTPMT1,CLDN3,0.211,-0.378,5.1795405e-07,False,False,54,,,,-0.567,-0.434,PTPMT,CLDN
+MED26,EPB41,0.211,-0.49,1.6567188e-10,False,False,48,,,,-0.757,-0.61,MED,EPB
+CDK7,KRT8,0.211,-0.492,7.7318804e-11,False,False,39,,,,-1.853,-1.697,CDK,KRT
+CSH2,DENND1C,0.209,-0.546,3.249408e-15,False,False,159,,,,-0.491,-0.375,CSH,DENND
+PPRC1,MACC1,0.207,-0.463,1.0331646e-10,False,False,138,,,,-0.517,-0.42,PPRC,MACC
+DDX51,CDC42BPG,0.206,-0.46,1.1961837e-09,False,False,170,,,,-0.966,-0.845,DDX,CDC42BPG
+INTS9,BTG2,0.205,-0.507,2.1097051e-11,False,False,149,,,,-1.784,-1.612,INTS,BTG
+DDX10,PCDH1,0.205,-0.475,7.331792e-11,False,False,166,,,,-1.536,-1.393,DDX,PCDH
+SRSF2,JUP,0.204,-0.501,5.8150998e-11,False,False,244,,,,-2.322,-2.129,SRSF,JUP
+RPS16,ELMO3,0.203,-0.415,6.570084e-08,False,False,267,,,,-2.109,-1.986,RPS,ELMO
+PDGFRA,TMC6,0.203,-0.385,1.6406562e-05,False,False,2,,,,-0.31,-0.228,PDGFRA,TMC
+RPS3,CCDC88C,0.203,-0.495,4.106822e-11,False,False,264,,,,-2.545,-2.395,RPS,CCDC
+NOP10,CYP4F8,0.202,-0.047,0.2575547,False,False,279,,,,-0.941,-0.93,NOP,CYP4F
+SPCS3,VAMP8,0.202,-0.492,2.2253017e-11,False,False,242,,,,-1.147,-1.012,SPCS,VAMP
+BARD1,STXBP2,0.202,-0.439,3.0077094e-09,False,False,98,,,,-0.767,-0.657,BARD,STXBP
+PSMB4,TADA1,0.202,-0.514,4.693433e-11,False,False,173,,,,-2.316,-2.143,PSMB,TADA
+CCT4,TESC,0.201,-0.446,6.583842e-09,False,False,93,,,,-2.225,-2.08,CCT,TESC
+CDK5RAP3,CYFIP2,0.201,-0.425,1.3212471e-07,False,False,248,,,,-0.379,-0.309,CDK5RAP,CYFIP
+TIMM10,DEGS2,0.201,-0.397,4.4892354e-07,False,False,135,,,,-1.216,-1.043,TIMM,DEGS
+TSEN34,ESRP2,0.201,-0.444,2.9773446e-08,False,False,45,,,,-0.507,-0.412,TSEN,ESRP
+GPN1,POLR1D,0.2,-0.487,1.594267e-11,False,False,226,,,,-1.785,-1.611,GPN,POLR
+CCNK,NCBP2L,0.2,-0.06,0.0699294,False,False,74,,,,-1.597,-1.584,CCNK,NCBP
+MAK16,H3-3A,0.2,-0.453,7.131415e-10,False,False,58,,,,-1.874,-1.727,MAK,H3-
+RAB1A,PPP1CA,0.2,-0.451,7.8904264e-08,False,False,132,,,,-0.37,-0.295,RAB,PPP1CA
+NSL1,SRXN1,0.199,-0.357,5.0383832e-08,False,False,233,,,,-1.209,-1.125,NSL,SRXN
+SRSF10,MYH14,0.199,-0.462,7.471844e-10,False,False,237,,,,-0.762,-0.628,SRSF,MYH
+TIMM22,DEF6,0.198,-0.428,3.1023337e-08,False,False,113,,,,-0.613,-0.509,TIMM,DEF
+DHX33,PRR15L,0.198,-0.193,0.004337153,False,False,213,,,,-1.175,-1.109,DHX,PRR
+HAUS1,PTPN7,0.197,-0.1,0.057844732,False,False,229,,,,-1.602,-1.568,HAUS,PTPN
+EIF3M,GPR87,0.197,-0.329,4.0049777e-06,False,False,163,,,,-1.159,-1.075,EIF,GPR
+ANAPC4,ZNF195,0.197,-0.453,5.174056e-10,False,False,269,,,,-1.32,-1.191,ANAPC,ZNF
+NBAS,USE1,0.195,-0.469,7.297982e-11,False,False,178,,,,-0.658,-0.52,NBAS,USE
+MZT2A,TMC6,0.195,-0.402,9.520164e-08,False,False,155,,,,-0.466,-0.398,MZT,TMC
+TBCB,XK,0.194,-0.364,8.444273e-07,False,False,282,,,,-1.084,-0.967,TBCB,XK
+RANBP3,MAPK13,0.194,-0.475,7.0037326e-10,False,False,191,,,,-0.396,-0.3,RANBP,MAPK
+EIF3B,MYC,0.193,-0.437,4.0015715e-09,False,False,111,,,,-1.853,-1.708,EIF,MYC
+POLR1E,UBE2QL1,0.193,-0.286,1.4244188e-05,False,False,136,,,,-0.726,-0.638,POLR,UBE2QL
+RPS11,KCNH2,0.193,-0.419,1.5593103e-07,False,False,276,,,,-2.589,-2.437,RPS,KCNH
+PAK1IP1,TMEM238,0.193,-0.462,3.1626866e-09,False,False,185,,,,-1.349,-1.205,PAK1IP,TMEM
+AASDHPPT,UNC13D,0.192,-0.451,1.2183312e-09,False,False,115,,,,-0.331,-0.239,AASDHPPT,UNC
+MET,TPD52,0.192,-0.286,0.00013020764,False,False,4,,,,-0.171,-0.121,MET,TPD
+FOXK1,DMTN,0.191,-0.417,1.5713711e-08,False,False,73,,,,-0.323,-0.216,FOXK,DMTN
+SF3A2,SRGN,0.191,-0.43,1.1826256e-08,False,False,231,,,,-1.486,-1.36,SF3A,SRGN
+UTP6,HCAR1,0.191,-0.352,3.1614268e-06,False,False,232,,,,-1.007,-0.944,UTP,HCAR
+CLCC1,CENPV,0.19,-0.452,2.002301e-09,False,False,211,,,,-0.463,-0.384,CLCC,CENPV
+NOP2,ZHX2,0.19,-0.43,3.2533197e-08,False,False,171,,,,-1.22,-1.116,NOP,ZHX
+PPAN,C11orf52,0.19,-0.351,9.228685e-06,False,False,152,,,,-1.136,-1.046,PPAN,C11orf
+WBP11,PHB2,0.188,-0.458,7.450351e-10,False,False,184,,,,-1.147,-1.019,WBP,PHB
+RPS9,CMTM4,0.188,-0.32,3.7746875e-06,False,False,270,,,,-1.802,-1.682,RPS,CMTM
+SOD1,MYRIP,0.188,-0.358,4.143453e-06,False,False,277,,,,-1.444,-1.278,SOD,MYRIP
+RPTOR,FAM83B,0.187,-0.381,8.220875e-08,False,False,25,,,,-0.94,-0.837,RPTOR,FAM
+SPOUT1,S100A14,0.187,-0.417,1.4159893e-07,False,False,76,,,,-1.405,-1.276,SPOUT,S100A
+SCFD1,STRBP,0.186,-0.311,1.8130368e-05,False,False,251,,,,-1.427,-1.343,SCFD,STRBP
+POTEI,NPM3,0.186,-0.384,5.5553407e-08,False,False,189,,,,-0.446,-0.378,POTEI,NPM
+DDX55,DUSP23,0.186,-0.438,1.735438e-09,False,False,182,,,,-1.062,-0.932,DDX,DUSP
+TAF1A,RBKS,0.185,-0.401,8.1538644e-07,False,False,44,,,,-0.773,-0.697,TAF,RBKS
+RPS15,LMX1B,0.184,-0.408,1.8922506e-08,False,False,278,,,,-2.26,-2.119,RPS,LMX
+PNO1,GSTO2,0.184,-0.443,2.7459691e-08,False,False,94,,,,-1.121,-1.03,PNO,GSTO
+PWP1,NHLRC1,0.183,-0.397,1.0176775e-07,False,False,214,,,,-0.764,-0.679,PWP,NHLRC
+CCT6A,RNF149,0.183,-0.387,5.8589944e-08,False,False,97,,,,-1.695,-1.599,CCT,RNF
+CHMP2A,TRIM51,0.182,-0.056,0.12094433,False,False,218,,,,-1.858,-1.839,CHMP,TRIM
+NOC4L,TSTD1,0.182,-0.436,1.1396982e-08,False,False,203,,,,-1.018,-0.902,NOC,TSTD
+SNAPC1,MYO1A,0.182,-0.177,0.019482972,False,False,121,,,,-1.635,-1.571,SNAPC,MYO
+NOC3L,RHOH,0.18,-0.266,0.0004909109,False,False,70,,,,-0.717,-0.643,NOC,RHOH
+TRAPPC1,RIPK3,0.18,-0.414,1.4479438e-09,False,False,281,,,,-1.202,-1.092,TRAPPC,RIPK
+HAUS3,DENND1C,0.18,-0.386,1.21364065e-08,False,False,156,,,,-1.228,-1.128,HAUS,DENND
+VHL,RPUSD4,0.18,-0.411,3.090937e-09,False,False,56,,,,-0.815,-0.661,VHL,RPUSD
+ORC4,TTC39A,0.18,-0.416,2.5705225e-08,False,False,148,,,,-0.57,-0.483,ORC,TTC
+TAF1C,MAPK4,0.179,-0.225,0.00077594555,False,False,209,,,,-1.09,-1.019,TAF,MAPK
+BCCIP,RHOF,0.178,-0.424,8.342795e-09,False,False,137,,,,-0.618,-0.543,BCCIP,RHOF
+SNAPC5,PTPRH,0.177,-0.392,1.7972171e-07,False,False,252,,,,-1.287,-1.158,SNAPC,PTPRH
+SEC62,NUP62CL,0.177,-0.423,2.8229877e-08,False,False,247,,,,-0.418,-0.33,SEC,NUP62CL
+ELAC2,CASP10,0.175,-0.378,1.7820165e-08,False,False,110,,,,-0.952,-0.853,ELAC,CASP
+NUP54,TRAP1,0.173,-0.461,4.377561e-09,False,False,140,,,,-0.81,-0.675,NUP,TRAP
+PSMG4,EPHA10,0.173,-0.348,1.1413366e-06,False,False,145,,,,-1.364,-1.206,PSMG,EPHA
+PELP1,ADCY2,0.173,-0.175,0.0018051702,False,False,253,,,,-1.038,-0.986,PELP,ADCY
+PPP1CB,PLEKHH1,0.173,-0.366,1.1466017e-06,False,False,116,,,,-1.268,-1.158,PPP1CB,PLEKHH
+TOP1,TM7SF2,0.172,-0.422,1.0636294e-08,False,False,47,,,,-1.051,-0.957,TOP,TM7SF
+LONP1,GPR35,0.172,-0.316,8.497845e-06,False,False,153,,,,-1.429,-1.269,LONP,GPR
+NUP155,MYO1G,0.172,-0.129,0.03503786,False,False,176,,,,-1.168,-1.14,NUP,MYO
+PFDN4,FHIT,0.172,-0.366,1.185962e-05,False,False,119,,,,-0.336,-0.261,PFDN,FHIT
+RPS17,PPM1J,0.172,-0.472,2.8658903e-10,False,False,227,,,,-1.608,-1.477,RPS,PPM
+POLE2,CKMT1B,0.171,-0.399,4.480735e-09,False,False,112,,,,-1.684,-1.53,POLE,CKMT
+TRAPPC4,OXA1L,0.171,-0.39,4.0322956e-07,False,False,207,,,,-0.931,-0.838,TRAPPC,OXA
+TRAPPC11,TMPRSS2,0.171,-0.22,0.0006901822,False,False,256,,,,-1.048,-0.998,TRAPPC,TMPRSS
+NHP2,SMIM1,0.169,-0.412,4.3456055e-08,False,False,266,,,,-0.764,-0.684,NHP,SMIM
+DNAJA3,LTBR,0.167,-0.369,5.0140176e-07,False,False,222,,,,-0.963,-0.881,DNAJA,LTBR
+NOPCHAP1,ZFP62,0.167,-0.321,3.4486507e-06,False,False,228,,,,-0.776,-0.716,NOPCHAP,ZFP
+FOXO3,POTEB2,0.165,-0.006,0.5,False,False,164,,,,-0.355,-0.354,FOXO,POTEB
+RNF4,BTG2,0.165,-0.395,7.78171e-09,False,False,195,,,,-0.604,-0.478,RNF,BTG
+RRP12,DUSP23,0.164,-0.411,7.241215e-09,False,False,258,,,,-1.363,-1.249,RRP,DUSP
+CLNS1A,QPCTL,0.164,-0.377,2.0915857e-07,False,False,230,,,,-1.464,-1.333,CLNS,QPCTL
+RRP1,ATP13A4,0.163,-0.148,0.036586076,False,False,160,,,,-0.834,-0.799,RRP,ATP13A
+NOM1,TMEM210,0.162,-0.05,0.14065138,False,False,204,,,,-0.742,-0.731,NOM,TMEM
+NOB1,C15orf48,0.162,-0.374,9.42814e-07,False,False,150,,,,-1.086,-0.996,NOB,C15orf
+RRP15,TLR9,0.161,-0.179,0.002220463,False,False,144,,,,-0.888,-0.851,RRP,TLR
+H3C8,FGFR4,0.161,-0.318,6.1985347e-06,False,False,71,,,,-0.529,-0.472,H3C,FGFR
+EIF3E,KIAA1671,0.16,-0.332,2.3311506e-05,False,False,274,,,,-1.412,-1.312,EIF,KIAA
+RPS25,ENDOU,0.16,-0.228,0.0032339722,False,False,263,,,,-1.344,-1.278,RPS,ENDOU
+PES1,DENND2D,0.16,-0.408,2.421517e-07,False,False,77,,,,-1.126,-1.033,PES,DENND
+CCDC59,PTPN6,0.16,-0.328,7.699534e-06,False,False,177,,,,-0.647,-0.592,CCDC,PTPN
+MED11,RPL19,0.159,-0.36,1.587507e-06,False,False,103,,,,-1.891,-1.753,MED,RPL
+MED28,PABPC1,0.158,-0.348,2.4429007e-06,False,False,198,,,,-1.289,-1.207,MED,PABPC
+RSL1D1,PSENEN,0.158,-0.321,9.260431e-06,False,False,190,,,,-1.43,-1.341,RSL1D,PSENEN
+PSMA2,POLR1D,0.157,-0.323,0.00013419628,False,False,280,,,,-2.483,-2.378,PSMA,POLR
+RAE1,P4HTM,0.155,-0.389,1.0458328e-05,False,False,200,,,,-1.547,-1.44,RAE,P4HTM
+HAUS4,TEC,0.155,-0.355,1.8078665e-06,False,False,142,,,,-1.302,-1.199,HAUS,TEC
+PSMA1,HES2,0.155,-0.333,1.2075138e-05,False,False,268,,,,-2.293,-2.175,PSMA,HES
+CIR1,EIF4EBP3,0.155,-0.356,5.6618336e-07,False,False,187,,,,-0.415,-0.352,CIR,EIF4EBP
+USP36,TMC8,0.154,-0.318,7.167977e-06,False,False,188,,,,-0.931,-0.865,USP,TMC
+TARS1,TRIM72,0.154,-0.062,0.20378782,False,False,63,,,,-1.912,-1.891,TARS,TRIM
+FARSA,ALOX15B,0.153,-0.089,0.102590226,False,False,124,,,,-0.89,-0.87,FARSA,ALOX
+EPRS1,STAT6,0.152,-0.224,0.0017106421,False,False,114,,,,-1.697,-1.643,EPRS,STAT
+RPS21,TNNI3,0.152,-0.355,4.761477e-06,False,False,250,,,,-1.674,-1.587,RPS,TNNI
+PREB,EMB,0.151,-0.403,2.4921249e-08,False,False,174,,,,-1.25,-1.161,PREB,EMB
+CSE1L,RBM47,0.15,-0.346,8.931828e-08,False,False,262,,,,-2.172,-2.079,CSE,RBM
+MED31,TAT,0.149,-0.091,0.17147888,False,False,181,,,,-1.469,-1.45,MED,TAT
+XAB2,HSPBAP1,0.149,-0.309,5.650405e-05,False,False,225,,,,-2.175,-2.059,XAB,HSPBAP
+HAUS5,STAT6,0.147,-0.398,9.729342e-08,False,False,179,,,,-1.351,-1.199,HAUS,STAT
+WDHD1,ACSL5,0.147,-0.273,0.00036156317,False,False,117,,,,-1.352,-1.275,WDHD,ACSL
+NOL12,SPINT2,0.146,-0.33,1.0006606e-05,False,False,212,,,,-0.736,-0.682,NOL,SPINT
+MED17,SLC16A5,0.146,-0.395,1.5607056e-07,False,False,167,,,,-1.135,-1.046,MED,SLC16A
+NVL,PROB1,0.145,-0.271,0.00048468204,False,False,208,,,,-1.329,-1.248,NVL,PROB
+RINT1,ANGEL1,0.143,-0.331,5.502526e-07,False,False,154,,,,-1.099,-1.023,RINT,ANGEL
+AMY2A,RHOH,0.142,-0.004,0.5278465,False,False,15,,,,-0.346,-0.346,AMY,RHOH
+INTS8,NOB1,0.142,-0.325,1.880926e-05,False,False,240,,,,-1.201,-1.133,INTS,NOB
+SAP18,C12orf45,0.141,-0.315,4.8024573e-05,False,False,283,,,,-1.108,-1.037,SAP,C12orf
+HSPA9,IL1B,0.14,-0.298,0.00014238419,False,False,169,,,,-2.35,-2.256,HSPA,IL
+RPL26L1,NPL,0.138,-0.325,5.9395616e-06,False,False,96,,,,-0.451,-0.386,RPL26L,NPL
+COPA,POLR1D,0.137,-0.38,4.2963637e-07,False,False,236,,,,-2.108,-1.976,COPA,POLR
+IMP3,VN1R1,0.137,-0.149,0.022854265,False,False,193,,,,-1.298,-1.251,IMP,VN1R
+UBL5,POLR3G,0.135,-0.31,1.4908281e-05,False,False,271,,,,-2.699,-2.588,UBL,POLR
+USP10,EEF1B2,0.134,-0.333,9.1582715e-06,False,False,210,,,,-0.688,-0.616,USP,EEF1B
+NARS1,PTP4A3,0.129,-0.291,0.00010687024,False,False,201,,,,-1.909,-1.828,NARS,PTP4A
+HINFP,FAM162B,0.126,-0.009,0.35133463,False,False,246,,,,-1.607,-1.605,HINFP,FAM
+MT1E,LCP1,0.125,-0.254,0.0005339126,False,False,224,,,,-0.476,-0.402,MT,LCP
+TUBGCP6,STAT6,0.123,-0.271,0.000100379955,False,False,273,,,,-1.0,-0.936,TUBGCP,STAT
+MIS18BP1,CCL28,0.122,-0.31,9.854071e-05,False,False,254,,,,-0.925,-0.843,MIS18BP,CCL
+VCP,MARK1,0.118,-0.23,0.0006439258,False,False,118,,,,-2.564,-2.475,VCP,MARK
+UBC,PHB2,0.075,-0.726,3.0028052e-06,False,False,26,,,,-0.526,-0.27,UBC,PHB
+KRTAP21-1,USP17L19,0.066,-0.008,0.47224984,False,False,123,,,,-0.333,-0.331,KRTAP21-,USP17L

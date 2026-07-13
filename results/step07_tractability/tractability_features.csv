@@ -1,0 +1,284 @@
+gene,tractability_score,novelty_score,ot_sm_approved_drug,ot_sm_druggable_family,ot_sm_hq_pocket,ot_sm_struct_ligand,ot_drug_count,dgidb_n_drugs,dgidb_n_approved_drugs,chembl_target_id,chembl_n_potent,chembl_action_types,has_inhibitor_moa,uniprot_acc,uniprot_kinase,uniprot_enzyme,uniprot_membrane,uniprot_loc
+PRKAR1A,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+LMNA,0.45,0.0,False,True,False,True,0,3,2,CHEMBL1293235,1,,False,P02545,False,False,False,"Nucleus lamina;Nucleus envelope;Nucleus, nucleoplasm"
+RPP25L,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+JUN,1.0,0.0,False,True,False,True,0,47,24,CHEMBL4977,61,,False,P05412,False,False,False,Nucleus
+VRK1,0.8,1.0,False,True,True,True,0,0,0,,0,,False,,False,False,False,
+CTDNEP1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+FERMT2,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+MET,1.0,0.0,True,True,True,True,38,118,25,CHEMBL3717,6729,AGONIST;ANTAGONIST;BINDING AGENT;INHIBITOR,True,P08581,True,True,True,Membrane;Secreted
+ITGAV,1.0,0.0,False,True,True,True,9,17,3,CHEMBL3660,29,BINDING AGENT,False,P06756,False,False,True,"Cell membrane;Cell junction, focal adhesion"
+CHMP4B,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+C3orf38,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+SPCS3,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+VCL,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ITGB5,0.8,0.5,False,True,False,True,3,5,0,CHEMBL2600,0,,False,P18084,False,False,True,Cell membrane
+SURF4,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PDGFRA,1.0,0.0,True,True,False,True,33,77,25,CHEMBL2007,965,ANTAGONIST;INHIBITOR,True,P16234,True,True,True,"Cell membrane;Cell projection, cilium;Golgi apparatus"
+NOLC1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+GPX4,0.6,1.0,False,False,False,True,0,2,0,,0,,False,,False,False,False,
+KIF18B,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TRAPPC13,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PTK2,1.0,0.0,False,True,True,True,7,31,3,CHEMBL2695,1925,INHIBITOR,True,Q05397,True,True,True,"Cell junction, focal adhesion;Cell membrane;Cytoplasm, perinuclear region"
+UBC,0.6,1.0,False,False,True,True,0,0,0,,0,,False,,False,False,False,
+RPL10A,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6067548,1,,False,P62906,False,False,False,Cytoplasm
+FGFR1,1.0,0.0,True,True,True,True,26,136,38,CHEMBL3650,5414,INHIBITOR,True,P11362,True,True,True,"Cell membrane;Nucleus;Cytoplasm, cytosol"
+SPOUT1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+BCCIP,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+POLR1H,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+EAF1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NHLRC2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+FRS2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+CCT6A,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ALG1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+CDC25B,1.0,1.0,False,True,False,True,0,21,0,CHEMBL4804,80,,False,P30305,False,True,False,"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome;Cytoplasm, cytoskeleton, spindle pole"
+TIMM9,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+KLF16,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+KIF2C,0.6,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+GOLT1B,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TCP1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+PSMG4,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PDCL3,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+BRAT1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+FAM50A,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+HAUS3,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+KIF18A,0.6,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+SYS1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+POP7,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+SNRPB2,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+SEC62,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+LYRM4,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+C19orf53,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+TAF1C,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+SBDS,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+KRTAP21-1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+INTS12,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+DDX51,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+DDX55,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PRKRA,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PREB,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TAF1A,0.2,1.0,False,True,False,False,0,0,0,,0,,False,,False,False,False,
+CCT4,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+HSCB,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+EIF3B,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+HAUS2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+SETD5,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+UBTF,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+ERCC6L,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NDC1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PES1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+CYFIP1,0.6,1.0,False,False,True,True,0,0,0,,0,,False,,False,False,False,
+PDCD5,0.0,1.0,False,False,False,False,0,0,0,CHEMBL6066424,0,,False,O14737,False,False,False,"Nucleus;Cytoplasm, cytosol"
+RABGGTB,0.6,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+SRSF2,0.0,1.0,False,False,False,False,0,2,0,,0,,False,,False,False,False,
+DPH3,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PPAN,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+UBE2C,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+ACTL6A,0.25,0.0,False,False,False,True,0,2,2,CHEMBL5724740,1,,False,O96019,False,False,False,Nucleus
+RSAD1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PPP2R1A,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+RPTOR,0.6,0.0,False,False,False,True,1,8,4,CHEMBL3120040,0,,False,Q8N122,False,False,True,Lysosome membrane;Cytoplasm;Cytoplasmic granule
+TMED2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PPP1R12A,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+SNUPN,0.6,1.0,False,False,True,True,0,0,0,,0,,False,,False,False,False,
+MAK16,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+CHMP7,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RAB1A,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+CDK2,1.0,0.0,False,True,True,True,14,117,9,CHEMBL301,2409,INHIBITOR,True,P24941,True,True,False,"Cytoplasm, cytoskeleton, microtubule organizing center, centrosome;Nucleus, Cajal body;Cytoplasm"
+SPCS2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+ELAC2,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+GPR61,0.45,1.0,False,True,False,True,0,1,0,,0,,False,,False,False,False,
+GRB2,0.8,0.0,False,False,True,True,1,4,1,CHEMBL3663,204,,False,P62993,False,False,False,Nucleus;Cytoplasm;Endosome
+ODR4,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+ZNHIT3,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+ELAVL1,0.55,1.0,False,True,False,False,0,2,0,,0,,False,,False,False,False,
+UBA5,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+EGLN1,1.0,0.0,True,True,False,True,5,15,3,CHEMBL5697,1773,INHIBITOR,True,Q9GZT9,False,True,False,Cytoplasm;Nucleus
+SRF,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RPS17,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6066972,0,,False,P08708,False,False,False,"Cytoplasm;Nucleus, nucleolus"
+CCT3,0.25,0.0,False,False,False,True,0,2,2,CHEMBL6066171,2,,False,P49368,False,True,False,Cytoplasm
+RAC1,0.6,0.0,False,False,True,True,0,9,3,CHEMBL6094,5,,False,P63000,False,True,True,Cell membrane;Melanosome;Cytoplasm
+EXT1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+LSM6,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+E2F3,0.0,0.5,False,False,False,False,1,1,0,,0,,False,O00716,False,False,False,Nucleus
+MZT2A,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+NELFA,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+PPP1CB,0.0,1.0,False,False,False,False,0,2,0,,0,,False,,False,False,False,
+KDM8,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+TAF1D,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TIMM10,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+USP36,0.45,0.0,False,False,False,True,0,2,2,CHEMBL4630861,30,,False,Q9P275,False,True,False,"Nucleus, nucleolus;Cytoplasm"
+PFDN1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+SKA1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+HAUS4,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+MED11,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+CCDC59,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+CSH2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TSEN34,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+DSCC1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+INTS9,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PFDN4,0.25,0.0,False,False,False,True,0,1,1,,0,,False,Q9NQP4,False,False,False,Nucleus;Cytoplasm;Mitochondrion
+EPRS1,0.25,1.0,False,False,False,True,0,1,0,,0,,False,,False,False,False,
+PTPMT1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TSEN54,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+POLR1G,0.25,0.0,False,False,False,True,0,4,4,CHEMBL6067043,0,,False,O15446,False,False,False,"Nucleus, nucleolus;Chromosome"
+PPRC1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NBAS,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PFDN5,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+RINT1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+WWTR1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+SOCS3,0.0,0.0,False,False,False,False,0,4,3,,0,,False,O14543,False,False,False,
+WBP11,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ARMC5,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+DDX10,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+UFC1,0.35,1.0,False,False,True,False,0,0,0,,0,,False,,False,False,False,
+CCT8,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+RSL1D1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ELMO2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+HAUS1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+MED26,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+FOXK1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NOC3L,0.25,0.0,False,False,False,True,0,1,1,,0,,False,Q8WTT2,False,False,False,"Nucleus, nucleolus;Nucleus speckle"
+HAUS5,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+HNRNPH1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NOB1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+HJV,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NUP54,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PAK1IP1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RPS21,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6067552,1,,False,P63220,False,False,False,"Cytoplasm, cytosol;Cytoplasm;Rough endoplasmic reticulum"
+ALG2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+ARPC2,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ACTR3,0.6,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+PTPN11,1.0,0.0,False,True,False,True,1,9,2,CHEMBL3864,2112,INHIBITOR,True,Q06124,False,True,False,Cytoplasm;Nucleus
+SLC35B2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+COPA,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+CDC42,0.8,0.0,False,True,True,True,0,6,1,CHEMBL6088,8,,False,P60953,False,True,True,"Cell membrane;Cytoplasm, cytoskeleton, microtubule organizing center, centrosome;Cytoplasm, cytoskeleton, spindle"
+NARS1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+PSTK,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NOP2,0.25,0.0,False,False,False,True,0,17,6,CHEMBL6066899,2,,False,P46087,False,True,False,"Nucleus, nucleolus;Nucleus"
+FOXO3,0.25,0.0,False,False,False,True,0,2,1,CHEMBL5778,0,,False,O43524,False,False,True,"Cytoplasm, cytosol;Nucleus;Mitochondrion matrix"
+NOL12,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+MLST8,0.6,0.0,False,False,False,True,1,4,1,CHEMBL6067530,0,,False,Q9BVC4,False,False,True,Lysosome membrane;Cytoplasm
+RRP1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+NUP35,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+H3C8,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NUBP2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+IMP3,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ARFRP1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+ARHGAP11A,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+CIR1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+MIS18BP1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TUBB,0.8,0.0,True,True,False,True,88,120,28,CHEMBL5444,3,,False,P07437,False,False,False,"Cytoplasm, cytoskeleton"
+SCFD1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NOC4L,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+AASDHPPT,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+CCNK,0.6,0.0,False,False,False,True,0,3,3,CHEMBL2346490,0,,False,O75909,False,False,False,Nucleus
+MT1E,0.0,0.0,False,False,False,False,0,1,1,,0,,False,P04732,False,False,False,
+BRCA1,0.4,0.0,False,True,False,False,0,92,23,CHEMBL5990,14,,False,P38398,False,True,False,Nucleus;Chromosome;Cytoplasm
+CHMP2A,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TOP1,1.0,0.0,True,True,True,True,26,118,13,CHEMBL1781,224,INHIBITOR;STABILISER,True,P11387,False,True,False,"Nucleus, nucleolus;Nucleus, nucleoplasm"
+RPL36,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6067527,1,,False,C0HME6,False,False,False,Endoplasmic reticulum
+EEFSEC,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+PNO1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+JTB,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+SNAPC5,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+EIF3M,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+C19orf25,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NELFCD,0.25,0.0,False,False,False,True,0,2,1,,0,,False,Q8IXH7,False,False,False,Nucleus
+SRSF10,0.0,1.0,False,False,False,False,0,1,0,,0,,False,,False,False,False,
+POTEI,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+AMY2A,1.0,0.0,False,True,False,True,1,2,1,CHEMBL2045,19,INHIBITOR,True,P04746,False,True,False,"Secreted, extracellular space"
+RPL26L1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TM2D2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PDCD2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+VBP1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+CDK5RAP3,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+SOD1,0.6,0.0,False,False,True,True,1,4,4,CHEMBL2354,8,,False,P00441,False,True,False,Cytoplasm;Nucleus
+WDR55,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+TRAPPC11,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RPS29,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6066849,3,,False,P62273,False,False,False,"Cytoplasm, cytosol;Cytoplasm;Rough endoplasmic reticulum"
+BARD1,0.0,0.0,False,False,False,False,0,1,1,,0,,False,Q99728,False,True,False,Nucleus
+DNAJA3,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+HYOU1,0.0,0.0,False,False,False,False,0,1,1,CHEMBL2216741,1,,False,Q9Y4L1,False,False,False,Endoplasmic reticulum lumen
+CHMP3,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RRP15,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+DCTN5,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NUP155,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+SNAPC1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+FARSA,0.6,1.0,False,False,True,True,0,0,0,,0,,False,,False,False,False,
+ANAPC4,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+MED28,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+PSMB7,0.8,0.0,True,True,False,True,7,7,5,CHEMBL3347256,2,,False,Q99436,False,True,False,Cytoplasm;Nucleus
+USP10,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+WDR77,0.6,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+CDS2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TARS1,0.8,1.0,False,True,False,True,0,0,0,,0,,False,,False,False,False,
+SEPSECS,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+UFM1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ZFP36L1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NVL,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+MMS19,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+PSMA1,0.0,0.0,False,False,False,False,0,7,5,CHEMBL4879432,1,,False,P25786,False,False,False,Cytoplasm;Nucleus
+PWP1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TBCB,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+OSBP,0.6,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+TRAPPC1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+XAB2,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+NOP10,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RPS25,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6067565,1,,False,P62851,False,False,False,Cytoplasm
+NOPCHAP1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+POLE2,0.25,0.0,True,False,False,True,7,6,4,,0,,False,P56282,False,False,False,Nucleus
+RPS3,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6066939,2,,False,P23396,False,True,True,"Cytoplasm;Nucleus;Nucleus, nucleolus"
+TEAD1,0.8,0.0,False,False,False,True,0,3,1,CHEMBL3334416,136,,False,P28347,False,False,False,Nucleus
+LONP1,0.6,1.0,False,False,True,True,0,1,0,,0,,False,,False,False,False,
+ALDOA,0.6,1.0,False,False,True,True,0,0,0,,0,,False,,False,False,False,
+SF3A2,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+UTP6,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+EIF3E,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+NOP56,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+TRAPPC4,0.35,1.0,False,False,True,False,0,0,0,,0,,False,,False,False,False,
+NSL1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+FXN,0.25,0.0,False,False,False,True,0,2,2,CHEMBL2321640,0,,False,Q16595,False,True,False,"Mitochondrion;Cytoplasm, cytosol"
+HINFP,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+GPN1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NHP2,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+NELFB,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+VCP,1.0,0.0,False,True,True,True,0,3,1,CHEMBL1075145,435,,False,P55072,False,True,False,"Cytoplasm, cytosol;Endoplasmic reticulum;Nucleus"
+SAP18,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+CSE1L,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+MSTO1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TIMM22,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+SGO1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RPS16,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6067569,2,,False,P62249,False,False,False,"Cytoplasm;Nucleus, nucleolus"
+PSMB4,0.8,0.0,True,True,False,True,7,7,5,CHEMBL4879435,0,,False,P28070,False,False,False,Cytoplasm;Nucleus
+GGPS1,1.0,0.0,False,True,False,True,0,21,2,CHEMBL4769,153,,False,O95749,False,True,False,"Cytoplasm;Cytoplasm, perinuclear region;Cytoplasm, myofibril, sarcomere, Z line"
+HSPA9,0.6,1.0,False,False,False,True,0,1,0,,0,,False,,False,False,False,
+ARF4,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+INTS8,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+MED31,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ORC4,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+POLR1E,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+MED17,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+AK6,0.6,1.0,False,False,True,True,0,0,0,,0,,False,,False,False,False,
+NCKAP1,0.6,1.0,False,False,True,True,0,0,0,,0,,False,,False,False,False,
+MTOR,1.0,0.0,True,True,False,True,26,164,38,CHEMBL2842,4794,INHIBITOR,True,P42345,True,True,True,Lysosome membrane;Endoplasmic reticulum membrane;Golgi apparatus membrane
+RANBP3,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+TUBGCP6,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+TLN1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RNF4,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+CLNS1A,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+ZNF593,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+RAE1,0.35,1.0,False,False,True,False,0,0,0,,0,,False,,False,False,False,
+WDHD1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+NOM1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+UBL5,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+PELP1,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
+VHL,0.8,0.0,False,False,False,True,0,28,16,CHEMBL3108660,230,,False,P40337,False,False,True,Cytoplasm;Cell membrane;Endoplasmic reticulum
+RPS9,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6066893,1,,False,P46781,False,False,False,"Cytoplasm;Nucleus, nucleolus"
+CDK7,1.0,0.0,False,True,True,True,9,42,3,CHEMBL3055,536,INHIBITOR,True,P50613,True,True,False,"Nucleus;Cytoplasm;Cytoplasm, perinuclear region"
+PSMA2,0.0,0.0,False,False,False,False,0,7,5,CHEMBL6066935,1,,False,P25787,False,False,False,Cytoplasm;Nucleus
+RPS15,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6067561,1,,False,P62841,False,False,False,Cytoplasm
+RPS11,0.6,0.0,True,False,False,True,5,9,1,CHEMBL6067557,2,,False,P62280,False,False,False,"Cytoplasm;Nucleus, nucleolus"
+DHX33,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+CLCC1,0.0,1.0,False,False,False,False,0,0,0,,0,,False,,False,False,False,
+RRP12,0.25,1.0,False,False,False,True,0,0,0,,0,,False,,False,False,False,
