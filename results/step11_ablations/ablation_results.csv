@@ -1,0 +1,16 @@
+ablation,metric,value
+composite vs +LLM (all 283),Spearman ρ,0.487
+composite vs +LLM (top-100 reviewed),Spearman ρ,0.529
+composite vs +LLM,top-50 overlap,26/50
+expert vs non-expert weights,Spearman ρ,0.922
+expert vs non-expert weights,top-20 overlap,13/20
+weight jitter ±0.03 (200 draws),mean Spearman ρ,0.974
+weight jitter ±0.03,min Spearman ρ,0.903
+weight jitter ±0.03,mean top-20 retention,90%
+leave-one-out: drop selectivity,Spearman ρ,0.734
+leave-one-out: drop tractability,Spearman ρ,0.867
+leave-one-out: drop dependency,Spearman ρ,0.883
+leave-one-out: drop synthetic_lethality,Spearman ρ,0.975
+positive-control recovery,controls in top-20,5/5
+positive-control recovery,median control rank,6
+positive-control recovery,MWU p (ranked better than rest),3.5e-08

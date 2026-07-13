@@ -1,0 +1,5 @@
+claim_layer,verdict,evidence,strength
+KIF2C/MCAK as a glioma target,NOT novel — well established,"Prognostic marker in gliomas since 2011; 2023 structure-based screen explicitly targets KIF2C 'to combat glioma'; pan-cancer oncogenic hub (HCC, NPC, prostate, CRC, gastric, osteosarcoma)",strong prior art
+KIF2C role in chromosomal instability (CIN),NOT novel — deeply characterized,"MCAK/Kif2C suppresses CIN when present, promotes CIN when lost (Bakhoum/Manning/Compton 2007-2010); endogenous activity tuned to suppress missegregation",strong prior art
+CDKN2A/9p21-loss synthetic lethality as a GBM strategy,NOT novel — active field,"2025 Neuro-Oncology abstract frames CDKN2A/B-del GBM for SL trials; established 9p21 SL nodes = PRMT5 (MTAP arm), CDK4/6 (CDKN2A arm, IDH-mut), TYMS/pemetrexed, Chk1; network-SL GBM case report (2024)",strong prior art; KIF2C NOT among known nodes
+KIF2C specifically as the CDKN2A-deletion SL partner in GBM,NOVEL — no prior report found,"5-query literature sweep: no source links KIF2C/MCAK to CDKN2A or 9p21 synthetic lethality; known 9p21 SL nodes are PRMT5/CDK4-6/TYMS/Chk1, never KIF2C","genuinely new pairing, but unvalidated correlation"

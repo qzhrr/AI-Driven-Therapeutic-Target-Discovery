@@ -1,0 +1,11 @@
+test,effect,p,n,interpretation
+KIF2C dep vs prolif (pan),r=+0.091,p=2.5e-3,n=1103,weak/negligible
+KIF2C dep vs prolif (glioma),r=+0.212,p=9.3e-2,n=64,n.s.
+CDKN2A-del effect on prolif (glioma),Δ=-0.12,p=0.71,n=64,none
+"CDKN2A->KIF2C dep, prolif-adjusted (pan)",beta=-0.098,p=1.1e-10,n=1103,"robust, independent of prolif"
+KIF2C co-dep KIF18B,r=+0.546,,n=1178,strong
+KIF2C co-dep CDK4,r=+0.082,,n=1178,negligible
+KIF2C co-dep RB1,r=-0.081,,n=1178,negligible
+KIF2C CDKN2A-del SL (glioma),d=-0.70,p=8.3e-3,n=72,selective
+KIF18A CDKN2A-del SL (glioma),d=-0.09,p=0.74,n=72,NOT selective (uniformly essential)
+KIF18B CDKN2A-del SL (glioma),d=-0.49,p=4.1e-2,n=72,intermediate
