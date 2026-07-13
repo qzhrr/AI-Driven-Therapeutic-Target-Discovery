@@ -3,8 +3,12 @@
 # (~8.6 GB total; core_gbmap.h5ad alone is ~8.1 GB.)
 # The small connector/LLM caches in data/cache/ ARE committed (see README).
 # ---------------------------------------------------------------------------
-data/raw/
+# Ignore the directory *contents* (not the directory itself) so the README and
+# .gitkeep can be re-included — a trailing-slash `data/raw/` rule would block
+# re-inclusion of files beneath it.
+data/raw/*
 !data/raw/.gitkeep
+!data/raw/README.md
 
 # Python
 __pycache__/
