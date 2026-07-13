@@ -2,6 +2,10 @@
 
 *A 12-step small-molecule target-discovery pipeline, developed and validated on glioblastoma (GBM).*
 
+<p align="center">
+  <img src="docs/pipeline_schematic.png" alt="Pipeline overview: 17,916 genes screened down to 283 glioma-selective candidates through dependency, synthetic-lethality, tumor-vs-TME, therapeutic-window and tractability filters, then LLM weighting and nomination, validated by a gene-masked ablation that yields an evidence-carried portfolio (VRK1, ELAVL1; distinctive lead KIF2C)." width="720">
+</p>
+
 A 12-step computational pipeline that nominates **novel, druggable small-molecule
 inhibition targets in glioblastoma (GBM)** by integrating a genetic-dependency core
 (DepMap CRISPR) with a therapeutic-window filter (single-cell tumor-vs-microenvironment,
