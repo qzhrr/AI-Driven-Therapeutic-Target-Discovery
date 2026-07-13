@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------------------
+# Large external inputs — fetched by src/step00_fetch_data.py, never committed.
+# (~8.6 GB total; core_gbmap.h5ad alone is ~8.1 GB.)
+# The small connector/LLM caches in data/cache/ ARE committed (see README).
+# ---------------------------------------------------------------------------
+data/raw/
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+.Rhistory
+.RData
+*.swp
+*~
+.vscode/
+.idea/
+
+# Secrets — never commit API keys
+.env
+*.key

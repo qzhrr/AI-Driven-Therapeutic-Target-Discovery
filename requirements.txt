@@ -1,0 +1,15 @@
+# GBM target-discovery pipeline — Python dependencies
+# Tested with Python 3.11. Install:  pip install -r requirements.txt
+#
+# Core (needed to run every step in the default cached/offline mode):
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+pyarrow>=12.0          # feature_matrix.parquet I/O
+anndata>=0.9          # step04: backed-mode read of the ~8 GB GBmap .h5ad
+
+# Live mode only (GBM_LIVE=1), to recompute the stochastic LLM steps 9/10/11a
+# against the Anthropic API. Not needed for cached reproduction.
+anthropic>=0.39 ; python_version >= "3.8"
