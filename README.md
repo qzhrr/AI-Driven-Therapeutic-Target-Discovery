@@ -1,4 +1,6 @@
-# GBM small-molecule target discovery
+# AI-Driven Therapeutic Target Discovery
+
+*A 12-step small-molecule target-discovery pipeline, developed and validated on glioblastoma (GBM).*
 
 A 12-step computational pipeline that nominates **novel, druggable small-molecule
 inhibition targets in glioblastoma (GBM)** by integrating a genetic-dependency core
@@ -111,7 +113,7 @@ GBM_LIVE=1 python src/run_all.py
 ## Repository layout
 
 ```
-gbm-target-discovery/
+AI-Driven-Therapeutic-Target-Discovery/
 ├── src/                      # 16 runnable scripts + run_all.py
 │   ├── common.py             #   paths, cache-first run-mode helpers
 │   ├── adapters.py           #   portable host.llm / host.mcp shim
