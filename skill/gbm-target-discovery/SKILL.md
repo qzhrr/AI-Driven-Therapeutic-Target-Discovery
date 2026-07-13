@@ -1,18 +1,17 @@
 ---
 name: gbm-target-discovery
 description: >-
-  Cancer small-molecule target-discovery pipeline that integrates genetic dependency
+  Cancer small-molecule target-discovery pipeline integrating genetic dependency
   (DepMap CRISPR), synthetic lethality, single-cell tumor-vs-microenvironment specificity,
   therapeutic-window safety, tumor enrichment, and druggability into a weighted, ranked
-  candidate list — then uses an LLM ensemble to select category weights and nominate the
-  strongest targets, with a gene-masked ablation that tests whether nominations are driven
-  by evidence or by gene-name recognition. Use this skill whenever the user wants to
-  discover, prioritize, rank, or nominate therapeutic targets (drug targets, dependencies,
-  vulnerabilities, synthetic-lethal partners) for a cancer or other disease — especially
-  when they mention DepMap, CRISPR dependency, tumor-vs-normal selectivity, tractability,
-  a "therapeutic window", or want LLM-assisted target prioritization with bias controls.
-  Also use it to reproduce or extend the glioblastoma (GBM) analysis in this repository,
-  or to adapt the 12-step framework to a different cancer type or therapeutic lane.
+  candidate list — then an LLM ensemble selects category weights and nominates the strongest
+  targets, with a gene-masked ablation testing whether nominations are driven by evidence or
+  by gene-name recognition. Use whenever the user wants to discover, prioritize, rank, or
+  nominate therapeutic targets (drug targets, dependencies, vulnerabilities, synthetic-lethal
+  partners) for a cancer or disease — especially when they mention DepMap, CRISPR dependency,
+  tumor-vs-normal selectivity, tractability, a "therapeutic window", or want LLM-assisted
+  target prioritization with bias controls. Also use to reproduce or extend the glioblastoma
+  (GBM) analysis here, or adapt the 12-step framework to another cancer type or lane.
 license: MIT
 ---
 
